@@ -57,12 +57,8 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 #     },
 #     "show_breadcrumbs": True
 # }
-
-html_static_path = ['_static']
-
-html_logo = "box_logo.png"
 html_theme =  "furo"
 html_static_path = ['_static']
-
+html_logo = "box_logo.png"
 favicons = ["box_logo.png"]
 
