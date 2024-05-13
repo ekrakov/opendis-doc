@@ -63,8 +63,8 @@ html_static_path = ['_static']
 # html_favicon =["euler.png"]
 favicons = [
     "euler.png",
-    "160-16x16.jpg",
-    "logo_16x16.png",
+    "box_logo.png",
+    "box_logo.png",
 ]
 
 
