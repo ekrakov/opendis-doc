@@ -64,5 +64,5 @@ html_logo = "box_logo.png"
 html_theme =  "furo"
 html_static_path = ['_static']
 
-favicons = ["logo_box_upright.png"]
+favicons = ["box_logo.png"]
 
