@@ -61,6 +61,6 @@ html_theme =  "furo"
 html_logo="box_logo.png"
 html_static_path = ['_static']
 # html_favicon =["euler.png"]
-favicons = ["box_logo.png"]
+favicons = ["logo_box_upright.png"]
 
 
