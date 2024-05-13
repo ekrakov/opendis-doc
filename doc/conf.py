@@ -62,8 +62,8 @@ html_static_path = ['_static']
 html_logo = "box_logo.png"
 # html_favicon =["euler.png"]
 favicons = [
-    "https://picsum.photos/16/16",
-    "https://picsum.photos/32/32",
+    "euler.png",
+    "euler.png",
 ]
 
 
