@@ -62,6 +62,6 @@ html_static_path = ['_static']
 html_logo = "logo_box_upright.png"
 html_theme =  "furo"
  
-favicons = ["euler.png",]
+favicons = ["open-box-s-curve.png",]
 
 
