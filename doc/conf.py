@@ -58,7 +58,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 #     "show_breadcrumbs": True
 # }
 html_theme =  "furo"
-html_logo=["euler.png"]
+html_logo="box_logo.png"
 html_static_path = ['_static']
 # html_favicon =["euler.png"]
 favicons = [
